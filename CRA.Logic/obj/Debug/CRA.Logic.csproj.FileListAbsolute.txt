@@ -1,0 +1,13 @@
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\bin\Debug\CRA.Logic.dll
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\bin\Debug\CRA.Logic.pdb
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\bin\Debug\CRA.Entities.dll
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\bin\Debug\CRA.Entities.pdb
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\obj\Debug\CRA.Logic.csprojResolveAssemblyReference.cache
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\obj\Debug\CRA.Logic.dll
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\obj\Debug\CRA.Logic.pdb
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\bin\Debug\DBEntities.dll
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\bin\Debug\EntityFramework.dll
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\bin\Debug\DBEntities.pdb
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Logic\bin\Debug\EntityFramework.xml
+C:\Users\Moshe\Documents\Visual Studio 2015\Projects\CarRentalAgency\CRA.Logic\bin\Debug\Database1.mdf
+C:\Users\Moshe\Documents\Visual Studio 2015\Projects\CarRentalAgency\CRA.Logic\bin\Debug\Database1_log.ldf
