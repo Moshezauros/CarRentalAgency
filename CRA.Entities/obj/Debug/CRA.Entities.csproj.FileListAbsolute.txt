@@ -1,0 +1,5 @@
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Entities\bin\Debug\CRA.Entities.dll
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Entities\bin\Debug\CRA.Entities.pdb
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Entities\obj\Debug\CRA.Entities.dll
+c:\users\moshe\documents\visual studio 2015\Projects\CarRentalAgency\CRA.Entities\obj\Debug\CRA.Entities.pdb
+C:\Users\Moshe\Documents\Visual Studio 2015\Projects\CarRentalAgency\CRA.Entities\obj\Debug\CRA.Entities.csprojResolveAssemblyReference.cache
